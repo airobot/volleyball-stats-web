@@ -202,7 +202,13 @@
           "stats": {}
         }
       ],
-      "isMyTeam": true
+      "isMyTeam": true,
+      "colorScheme": {
+        "starterColor": 4294836607,
+        "libroColor": 4294956800,
+        "benchColor": 4283019824,
+        "isDarkText": false
+      }
     },
     {
       "name": "МедВолна",
